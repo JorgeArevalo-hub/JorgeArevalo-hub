@@ -24,9 +24,11 @@ The purpose of this application was to make a system of purchase and sale of act
 
 This was part of a final degree work for the course <strong>4Geeks Academy Full-Stack developer bootcamp</strong>.
 
-## And this is my LinkedIn:
+## And this is my social media:
 
 <a href="http://www.linkedin.com/in/jorge-ar%C3%A9valo-mor%C3%A1n-182749180" style="text-decoration: none"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="width: 100px; height: auto;"/></a>
+<a href="mailto:jorgearevalomoran@gmail.com" style="text-decoration: none"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" style="width: 100px; height: auto;" /></a>
+
 
 
 
